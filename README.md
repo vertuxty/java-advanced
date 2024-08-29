@@ -1,5 +1,6 @@
 # java-advanced
 **Репозиторий открыт с целью стажировки**
+**Условия: https://www.kgeorgiy.info/courses/java-advanced/homeworks.html#walk**
 
 Условия: https://www.kgeorgiy.info/courses/java-advanced/homeworks.html#walk
 
